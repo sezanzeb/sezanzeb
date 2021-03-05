@@ -1,5 +1,4 @@
-**My contributions**
-
+My contributions
 - [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode,
 Rewrote and cleaned up the architecture, Higher PEP compliance, More unittests, Scanning the directory before conversion,
 Switched from make to distutils
