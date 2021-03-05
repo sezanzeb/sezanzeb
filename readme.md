@@ -10,3 +10,6 @@ switched from make to distutils
 Other small side projects
 - [centauris-diary](https://github.com/sezanzeb/centauris-diary) my website
 - [hippo](https://github.com/sezanzeb/hippo) the image and content gallery I use
+- [sezanlight](https://github.com/sezanzeb/sezanlight) because it has never been done before (not)
+- [mandelbrot](https://github.com/sezanzeb/Node.js-Mandelbrot) from when I started learning node
+- [treibhaus](https://github.com/sezanzeb/Treibhaus) a crossover between genetic optimization and gradient descent
