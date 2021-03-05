@@ -6,3 +6,7 @@ switched from make to distutils
 - [key-mapper](https://github.com/sezanzeb/key-mapper): Maintainer
 - Other minor pull requests: [awx](https://github.com/ansible/awx/pull/9491), [docker-compose](https://github.com/docker/compose/pull/8063),
 [python-evdev](https://github.com/gvalkov/python-evdev/pull/146)
+
+Other small side projects
+- [centauris-diary](https://github.com/sezanzeb/centauris-diary) my website
+- [hippo](https://github.com/sezanzeb/hippo) the image and content gallery I use
