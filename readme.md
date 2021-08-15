@@ -1,6 +1,6 @@
 Contributions
 - [key-mapper](https://github.com/sezanzeb/key-mapper): Maintainer
-- [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode,
+- [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode, refactorings,
 rewrote and cleaned up the architecture, higher PEP8 compliance, more unittests, scanning directories before conversion,
 switched from make to distutils
 - [gensim](https://github.com/RaRe-Technologies/gensim/pulls?q=is%3Apr+author%3Asezanzeb+): EnsembleLda to combine multiple topic models
