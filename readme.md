@@ -7,7 +7,7 @@ switched from make to distutils
 - Other minor pull requests: [awx](https://github.com/ansible/awx/pull/9491), [docker-compose](https://github.com/docker/compose/pull/8063),
 [python-evdev](https://github.com/gvalkov/python-evdev/pull/146)
 
-Other small side projects
+Other small and old side projects
 - [centauris-diary](https://github.com/sezanzeb/centauris-diary) my website
 - [hippo](https://github.com/sezanzeb/hippo) an image and content gallery that I use
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
