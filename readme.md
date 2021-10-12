@@ -5,7 +5,7 @@ rewrote and cleaned up the architecture, higher PEP8 compliance, more unittests,
 switched from make to distutils
 - [gensim](https://github.com/RaRe-Technologies/gensim/pulls?q=is%3Apr+author%3Asezanzeb+): EnsembleLda to combine multiple topic models
 - Other minor pull requests: [awx](https://github.com/ansible/awx/pull/9491), [docker-compose](https://github.com/docker/compose/pull/8063),
-[python-evdev](https://github.com/gvalkov/python-evdev/pull/146)
+[python-evdev](https://github.com/gvalkov/python-evdev/pull/146), [mk2pango](https://github.com/ubunatic/md2pango/pull/1)
 
 Other small and old side projects
 - [centauris-diary](https://github.com/sezanzeb/centauris-diary) my website
