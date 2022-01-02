@@ -9,6 +9,7 @@ switched from make to distutils, bugfixes
 
 Other small and old side projects
 - [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systmd services with a dbus interface
+- [alsa-control](https://github.com/sezanzeb/alsa-control) Something similar to pavucontrol for alsa-only setups
 - [centauris-diary](https://github.com/sezanzeb/centauris-diary) my website
 - [hippo](https://github.com/sezanzeb/hippo) an image and content gallery that I use
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
