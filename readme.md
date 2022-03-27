@@ -15,3 +15,7 @@ Other small and old side projects
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
 - [mandelbrot](https://github.com/sezanzeb/Node.js-Mandelbrot) from when I started learning node
 - [treibhaus](https://github.com/sezanzeb/Treibhaus) a crossover between genetic optimization and gradient descent
+
+Project Ideas:
+- Desktop GUI application to control the Yamaha WXA-50 amplifier, which supports some xml API
+- A simple music playing server that just plays music-files from some predefined directory. With an easy quick start guide and an example file to be able to quickly try out if it works at all. And that exposes a basic web-interface to start and stop playing. Nothing fancy, just play music files. Existing solutions are way too complicate to be of any real use for people who just want things to work.
