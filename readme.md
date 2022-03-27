@@ -18,4 +18,4 @@ Other small and old side projects
 
 Project Ideas:
 - Desktop GUI application to control the Yamaha WXA-50 amplifier, which supports some xml API
-- A simple music playing server that just plays music-files from some predefined directory. With an easy quick start guide and an example file to be able to quickly try out if it works at all. And that exposes a basic web-interface to start and stop playing. Nothing fancy, just play music files. Existing solutions are way too complicated to be of any real use for people who just want things to work.
+- A simple music playing server that just plays music-files from some predefined directory. With an easy quick start guide and an example file to be able to quickly try out if it works at all. And that exposes a basic web-interface to start and stop playing. Nothing fancy, just play music files. Existing solutions are way too complicated to be of any real use for people who just want things to work. If users have to dig through documentation, error messages and tutorials just to play back a music file your project is terribly broken.
