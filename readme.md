@@ -17,5 +17,5 @@ Other small and old side projects
 - [treibhaus](https://github.com/sezanzeb/Treibhaus) a crossover between genetic optimization and gradient descent
 
 Project Ideas
-- Desktop GUI application to control the Yamaha WXA-50 amplifier, which supports some xml API
+- Desktop GUI application to control the Yamaha WXA-50 amplifier, which supports some XML API
 - A simple music playing server that just plays music-files from some predefined directory. With an easy quick start guide and an example file to be able to quickly try out if it works at all. And that exposes a basic web-interface to start and stop playing. Nothing fancy, just play music files. Communication between web-interface and server should work via a sane and consistent REST API. Existing solutions are way too complicated to be of any real use for people who just want things to work. If users have to dig through documentation, error messages, configuration-files and tutorials just to play back a single music file your project is terribly broken.
