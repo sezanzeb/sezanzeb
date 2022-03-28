@@ -17,4 +17,4 @@ Other small and old side projects
 - [treibhaus](https://github.com/sezanzeb/Treibhaus) a crossover between genetic optimization and gradient descent
 
 Project Ideas
-- GUI application to control the Yamaha WXA-50 amplifier, which supports some XML API
+- Linux GUI application to control the Yamaha WXA-50 amplifier, which supports some XML API
