@@ -8,6 +8,7 @@ switched from make to distutils, bugfixes
 - [python-evdev](https://github.com/gvalkov/python-evdev): Helping out as maintainer in the future
 
 Other small and old side projects
+- [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) My ESP32 alarm clock that talks to my amp via WiFi
 - [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systmd services with a dbus interface
 - [alsa-control](https://github.com/sezanzeb/alsa-control) Something similar to pavucontrol for alsa-only setups
 - [centauris-diary](https://github.com/sezanzeb/centauris-diary) my website
