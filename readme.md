@@ -16,6 +16,3 @@ Other small and old side projects
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
 - [mandelbrot](https://github.com/sezanzeb/Node.js-Mandelbrot) from when I started learning node
 - [treibhaus](https://github.com/sezanzeb/Treibhaus) a crossover between genetic optimization and gradient descent
-
-Project Ideas
-- Linux GUI application to control the Yamaha WXA-50 amplifier, which supports some XML API
