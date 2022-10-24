@@ -8,10 +8,6 @@ switched from make to distutils, bugfixes, UI performance improvements
 - [python-evdev](https://github.com/gvalkov/python-evdev): Maintainer
 - [gnome-music](https://gitlab.gnome.org/GNOME/gnome-music/-/merge_requests/988)
 
-**Supporting**
-
-If you want to support my work on input-remapper or other stuff, you can: https://ko-fi.com/sezanzeb. Your donations are very appreciated
-
 **Other small and old side projects**
 - [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) My ESP32 alarm clock that talks to my amp via WiFi
 - [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systmd services with a dbus interface
