@@ -1,3 +1,5 @@
+Computer Science Undergraduate, Musicology Student, Open Source developer
+
 **Contributions**
 - [input-remapper](https://github.com/sezanzeb/input-remapper): Author/Maintainer
 - [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode, refactorings,
