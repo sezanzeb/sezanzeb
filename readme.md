@@ -1,4 +1,4 @@
-Computer Science Graduate, Musicology Student, Open Source developer
+Computer Science graduate, Musicology student, Open Source developer
 
 **Contributions**
 - [input-remapper](https://github.com/sezanzeb/input-remapper): Author/Maintainer
