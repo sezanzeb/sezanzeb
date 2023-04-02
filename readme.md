@@ -11,6 +11,7 @@ switched from make to distutils, bugfixes, UI performance improvements
 - [gnome-music](https://gitlab.gnome.org/GNOME/gnome-music/-/merge_requests/988)
 
 **Other small and old side projects**
+- [chord-instability](https://github.com/sezanzeb/chord-instability) Calculating the instability of chords of arbitrary sizes, incorporating their overtones
 - [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) My ESP32 alarm clock that talks to my amp via WiFi
 - [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systmd services with a dbus interface
 - [alsa-control](https://github.com/sezanzeb/alsa-control) Something similar to pavucontrol for alsa-only setups
