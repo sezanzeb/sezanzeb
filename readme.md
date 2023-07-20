@@ -1,5 +1,3 @@
-Please leave google and join a morally acceptable company https://www.reddit.com/r/MicroG/comments/13tnolm/google_began_deleting_accounts_that_use_aurora/, https://www.gnu.org/proprietary/malware-google.html#content
-
 **Useful Projects**
 - [input-remapper](https://github.com/sezanzeb/input-remapper): Author/Maintainer
 - [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode, refactorings,
