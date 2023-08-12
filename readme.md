@@ -1,3 +1,5 @@
+I'm not really doing open source development anymore nowadays, but if you would still like to buy me a coffee for my past work, you can do so here: https://ko-fi.com/sezanzeb, thanks to everyone who donated so far.
+
 **Useful Projects**
 - [input-remapper](https://github.com/sezanzeb/input-remapper): Author/Maintainer
 - [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode, refactorings,
