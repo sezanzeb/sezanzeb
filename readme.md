@@ -1,4 +1,4 @@
-I'm not really doing open source development anymore nowadays, but if you would still like to buy me a coffee for my past work, you can do so here: https://ko-fi.com/sezanzeb, big thanks to everyone who supported me :)
+I'm not really doing much open source development anymore nowadays, but if you would still like to buy me a coffee for my past work, you can do so here: https://ko-fi.com/sezanzeb, big thanks to everyone who supported me :)
 
 **Useful Projects**
 - [input-remapper](https://github.com/sezanzeb/input-remapper): Author/Maintainer
