@@ -16,7 +16,8 @@ switched from make to distutils, bugfixes, UI performance improvements
 - [MongoDB Quickstart / hello-world ](https://gist.github.com/sezanzeb/1cdad9484eb5ecd4736c76ddbac6b410)
 
 **Other Stuff**
-- [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) My ESP32 alarm clock that talks to my amp via WiFi
+- [word-randomizer](https://github.com/sezanzeb/word-randomizer) to generate made-up words, for whatever purpose
+- [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) my ESP32 alarm clock that talks to my amp via WiFi
 - [centauris-diary](https://github.com/sezanzeb/centauris-diary) my website
 - [hippo](https://github.com/sezanzeb/hippo) an image and content gallery that I use
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
