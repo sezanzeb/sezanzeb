@@ -20,7 +20,7 @@ switched from make to distutils, bugfixes, UI performance improvements
 **Other Stuff**
 - [word-randomizer](https://github.com/sezanzeb/word-randomizer) to generate made-up words, for whatever purpose
 - [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) my ESP32 alarm clock that talks to my amp via WiFi
-- [centauris-diary](https://github.com/sezanzeb/centauris-diary) my website
+- [centauris-diary](https://github.com/sezanzeb/centauris-diary) my old tiny php blog framework
 - [hippo](https://github.com/sezanzeb/hippo) an image and content gallery that I use
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
 - [mandelbrot](https://github.com/sezanzeb/Node.js-Mandelbrot) from when I started learning node
