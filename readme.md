@@ -1,3 +1,5 @@
+If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
+
 I'm not really doing much open source development anymore nowadays, but if you would still like to buy me a coffee for my past work, you can do so here: https://ko-fi.com/sezanzeb, big thanks to everyone who supported me :)
 
 **Useful Projects**
