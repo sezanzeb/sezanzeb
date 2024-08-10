@@ -1,7 +1,8 @@
 If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 
 **Useful Projects**
-- [input-remapper](https://github.com/sezanzeb/input-remapper): Author/Maintainer
+- [input-remapper](https://github.com/sezanzeb/input-remapper): Mapping macros and keycodes to keys, buttons or other types of input
+- [goodreads-recommender](https://github.com/sezanzeb/goodreads-recommender): Makes recommendations based on your reading history
 - [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode, refactorings,
 rewrote and cleaned up the architecture, higher PEP8 compliance, more unit and integration tests, scanning directories before conversion,
 switched from make to distutils, bugfixes, UI performance improvements
