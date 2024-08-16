@@ -1,3 +1,5 @@
+AI pictures aren't art.
+
 If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 
 **Useful Projects**
