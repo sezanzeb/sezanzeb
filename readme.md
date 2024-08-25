@@ -8,6 +8,7 @@ If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 - [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode, refactorings,
 rewrote and cleaned up the architecture, higher PEP8 compliance, more unit and integration tests, scanning directories before conversion,
 switched from make to distutils, bugfixes, UI performance improvements
+- [music-library-sync](https://github.com/sezanzeb/music-library-sync): Synchronize a directory with music with one that contains smaller formats efficiently
 - [gensim](https://github.com/RaRe-Technologies/gensim/pulls?q=is%3Apr+author%3Asezanzeb+): EnsembleLda to combine multiple topic models, benchmarks for [communication optimizations](https://github.com/RaRe-Technologies/gensim/pull/2300#issuecomment-698008295)
 - [python-evdev](https://github.com/gvalkov/python-evdev): Maintainer
 - [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systmd services with a dbus interface
