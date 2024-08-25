@@ -2,6 +2,8 @@ AI pictures aren't art.
 
 If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 
+I'm not really doing much open source development anymore nowadays, sorry.
+
 **Useful Projects**
 - [input-remapper](https://github.com/sezanzeb/input-remapper): Mapping macros and keycodes to keys, buttons or other types of input
 - [goodreads-recommender](https://github.com/sezanzeb/goodreads-recommender): Makes recommendations based on your reading history
@@ -27,7 +29,3 @@ switched from make to distutils, bugfixes, UI performance improvements
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
 - [mandelbrot](https://github.com/sezanzeb/Node.js-Mandelbrot) from when I started learning node
 - [treibhaus](https://github.com/sezanzeb/Treibhaus) a crossover between genetic optimization and gradient descent
-
-I'm not really doing much open source development anymore nowadays, sorry.
-
-https://ko-fi.com/sezanzeb
