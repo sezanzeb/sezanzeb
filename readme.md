@@ -1,3 +1,5 @@
+AI pictures aren't art.
+
 If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 
 I'm not really doing much open source development anymore nowadays, sorry.
