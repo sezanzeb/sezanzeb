@@ -11,7 +11,6 @@ Keep that in mind if you donate on ko-fi, and thanks to all the supporters :)
 rewrote and cleaned up the architecture, higher PEP8 compliance, more unit and integration tests, scanning directories before conversion,
 switched from make to distutils, bugfixes, UI performance improvements
 - [music-library-sync](https://github.com/sezanzeb/music-library-sync): Synchronize a directory with music with one that contains smaller formats efficiently
-- [goodreads-recommender](https://github.com/sezanzeb/goodreads-recommender): Makes recommendations based on your reading history
 - [python-evdev](https://github.com/gvalkov/python-evdev): Maintainer
 - [alsa-control](https://github.com/sezanzeb/alsa-control) Something similar to pavucontrol for alsa-only setups
 - [mutagen](https://github.com/quodlibet/mutagen/pull/625), [gnome-music](https://gitlab.gnome.org/GNOME/gnome-music/-/merge_requests/988)
@@ -28,6 +27,7 @@ switched from make to distutils, bugfixes, UI performance improvements
 - [hippo](https://github.com/sezanzeb/hippo) an old image and content gallery that I used to use
 
 **Other Stuff**
+- [goodreads-recommender](https://github.com/sezanzeb/goodreads-recommender): Makes recommendations based on your reading history
 - [MongoDB Quickstart / hello-world ](https://gist.github.com/sezanzeb/1cdad9484eb5ecd4736c76ddbac6b410)
 - [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systmd services with a dbus interface
 - [mk2pango](https://github.com/ubunatic/md2pango/pull/1)
