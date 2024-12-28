@@ -34,5 +34,4 @@ switched from make to distutils, bugfixes, UI performance improvements
 - [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) my ESP32 alarm clock that talks to my amp via WiFi
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
 - [mandelbrot](https://github.com/sezanzeb/Node.js-Mandelbrot) from when I started learning node
-- [awx](https://github.com/ansible/awx/pull/9491), [docker-compose](https://github.com/docker/compose/pull/8063), [ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner/pulls?q=author%3Asezanzeb+)
-- [mk2pango](https://github.com/ubunatic/md2pango/pull/1), [fz2bitwig](https://github.com/davem2/sfz2bitwig/pull/3)
+- [awx](https://github.com/ansible/awx/pull/9491), [docker-compose](https://github.com/docker/compose/pull/8063), [ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner/pulls?q=author%3Asezanzeb+), [mk2pango](https://github.com/ubunatic/md2pango/pull/1), [fz2bitwig](https://github.com/davem2/sfz2bitwig/pull/3)
