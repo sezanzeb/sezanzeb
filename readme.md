@@ -30,10 +30,9 @@ switched from make to distutils, bugfixes, UI performance improvements
 - [goodreads-recommender](https://github.com/sezanzeb/goodreads-recommender): Makes recommendations based on your reading history
 - [MongoDB Quickstart / hello-world ](https://gist.github.com/sezanzeb/1cdad9484eb5ecd4736c76ddbac6b410)
 - [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systmd services with a dbus interface
-- [mk2pango](https://github.com/ubunatic/md2pango/pull/1)
-- [fz2bitwig](https://github.com/davem2/sfz2bitwig/pull/3)
 - [word-randomizer](https://github.com/sezanzeb/word-randomizer) to generate made-up words, for whatever purpose
 - [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) my ESP32 alarm clock that talks to my amp via WiFi
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
 - [mandelbrot](https://github.com/sezanzeb/Node.js-Mandelbrot) from when I started learning node
 - [awx](https://github.com/ansible/awx/pull/9491), [docker-compose](https://github.com/docker/compose/pull/8063), [ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner/pulls?q=author%3Asezanzeb+)
+- [mk2pango](https://github.com/ubunatic/md2pango/pull/1), [fz2bitwig](https://github.com/davem2/sfz2bitwig/pull/3)
