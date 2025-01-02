@@ -29,7 +29,7 @@ switched from make to distutils, bugfixes, UI performance improvements
 **Other Stuff**
 - [goodreads-recommender](https://github.com/sezanzeb/goodreads-recommender): Makes recommendations based on your reading history
 - [MongoDB Quickstart / hello-world ](https://gist.github.com/sezanzeb/1cdad9484eb5ecd4736c76ddbac6b410)
-- [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systmd services with a dbus interface
+- [systemd-pydbus-example](https://github.com/sezanzeb/systemd-pydbus-example) An example on pip-installable systemd services with a dbus interface
 - [word-randomizer](https://github.com/sezanzeb/word-randomizer) to generate made-up words, for whatever purpose
 - [arduino-wxa50-alarm](https://github.com/sezanzeb/arduino-wxa50-alarm/) my ESP32 alarm clock that talks to my amp via WiFi
 - [sezanlight](https://github.com/sezanzeb/sezanlight) an ambilight solution that reads screen colors from X
