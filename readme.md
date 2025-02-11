@@ -2,9 +2,6 @@ AI pictures aren't art.
 
 If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 
-I'm not really doing much open source development anymore nowadays, sorry.
-Keep that in mind if you donate on ko-fi, and thanks to all the supporters :)
-
 **Linux Desktop**
 - [input-remapper](https://github.com/sezanzeb/input-remapper): Mapping macros and keycodes to keys, buttons or other types of input
 - [soundconverter](https://github.com/kassoulet/soundconverter/pulls?q=is%3Apr+author%3Asezanzeb+): Batch mode, refactorings,
