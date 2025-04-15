@@ -1,5 +1,7 @@
 AI pictures aren't art.
 
+Please stop flooding the internet with AI-generated trash blogs. Thanks.
+
 If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 
 **Linux Desktop**
