@@ -17,7 +17,7 @@ switched from make to distutils, bugfixes, UI performance improvements
 - [voicefixer](https://github.com/haoheliu/voicefixer/pull/71), [nodejs-polars](https://github.com/pola-rs/nodejs-polars/pulls?q=is%3Apr+author%3A%40me+)
 
 **Web Development**
-- [zod](https://github.com/colinhacks/zod/pull/3141), [nest-winston](https://github.com/gremo/nest-winston/pull/773), [nestjs](https://github.com/nestjs/nest/pulls?q=is%3Apr+author%3A%40me+), [golevelup/nestjs](https://github.com/golevelup/nestjs/pull/648), [nest-cli](https://github.com/nestjs/nest-cli/pull/2175), [nock](https://github.com/nock/nock/pull/2750), [node-influx](https://github.com/node-influx/node-influx/pull/679), [sequelize-fixtures](https://github.com/domasx2/sequelize-fixtures/pull/133), [influxdb-client-js](https://github.com/influxdata/influxdb-client-js/pull/432)
+- [zod](https://github.com/colinhacks/zod/pull/3141), [nest-winston](https://github.com/gremo/nest-winston/pull/773), [nestjs](https://github.com/nestjs/nest/pulls?q=is%3Apr+author%3A%40me+), [golevelup/nestjs](https://github.com/golevelup/nestjs/pull/648), [nest-cli](https://github.com/nestjs/nest-cli/pull/2175), [nock](https://github.com/nock/nock/pull/2750), [node-influx](https://github.com/node-influx/node-influx/pull/679), [sequelize-fixtures](https://github.com/domasx2/sequelize-fixtures/pull/133), [influxdb-client-js](https://github.com/influxdata/influxdb-client-js/pull/432), [react-flow-chart](https://github.com/MrBlenny/react-flow-chart/pull/171)
 - [centauris-diary](https://github.com/sezanzeb/centauris-diary) my old tiny php blog framework
 - [hippo](https://github.com/sezanzeb/hippo) an old image and content gallery that I used to use
 
