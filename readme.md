@@ -1,4 +1,6 @@
-AI pictures, books and music are not art. Your AI generated blogs ruin the internet. [Click here for a mostly AI-free web search](https://noai.duckduckgo.com/?q=a&df=1970-01-02..2022-11-30&noai=1&t=h_&ia=web)
+[Click here for a mostly AI-free web search](https://noai.duckduckgo.com/?q=a&df=1970-01-02..2022-11-30&noai=1&t=h_&ia=web)
+
+AI pictures, books and music are not art. Your AI generated blogs ruin the internet.
 
 If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 
