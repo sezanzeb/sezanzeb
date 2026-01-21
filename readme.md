@@ -1,4 +1,4 @@
-[Click here for a mostly AI-free web search](https://noai.duckduckgo.com/?q=a&df=1970-01-02..2022-11-30&noai=1&t=h_&ia=web)
+[Click here for a mostly AI-free web search](https://noai.duckduckgo.com/?q=a&df=1970-01-02..2022-11-30&noai=1)
 
 AI pictures, books and music are not art. Your AI generated blogs ruin the internet.
 
