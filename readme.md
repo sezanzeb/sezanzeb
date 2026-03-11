@@ -1,8 +1,8 @@
-[Click here for a mostly AI-free web search](https://noai.duckduckgo.com/?q=a&df=1970-01-02..2022-11-30&noai=1)
-
-AI pictures, books and music are not art. Your AI generated blogs ruin the internet.
-
-If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
+- [Click here for a mostly AI-free web search](https://noai.duckduckgo.com/?q=a&df=1970-01-02..2022-11-30&noai=1)
+- AI pictures, books and music are not art. Your AI generated blogs ruin the internet
+- Tax the rich. Nobody should be a billionaire
+- And fuck cars
+- If you need to contact me, for whatever reason: b8x45ygc9@mozmail.com
 
 **Linux Desktop**
 - [input-remapper](https://github.com/sezanzeb/input-remapper): Mapping macros and keycodes to keys, buttons or other types of input
