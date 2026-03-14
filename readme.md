@@ -1,4 +1,4 @@
-[Click here for a mostly AI-free web search](https://noai.duckduckgo.com/?q=a&df=1970-01-02..2022-11-30&noai=1). AI pictures, books, blogs and music are not art, they are spam that ruins the internet. Tax the rich. Nobody should be a billionaire. And fuck cars.
+[Click here for a mostly AI-free web search](https://noai.duckduckgo.com/?q=a&df=1970-01-02..2022-11-30&noai=1). AI pictures, books and music are not art, they are spam. Your AI generated articles ruin the internet. Tax the rich. Nobody should be a billionaire. And fuck cars.
 
 If you need to contact me, for whatever reason: kbh6fpwuk@mozmail.com
 
