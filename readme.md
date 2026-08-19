@@ -1,3 +1,5 @@
+AI pictures, music, books, etc. are not art, they are spam.
+
 If you need to contact me, for whatever reason: kbh6fpwuk@mozmail.com
 
 **Linux Desktop**
